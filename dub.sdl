@@ -1,0 +1,5 @@
+name "jsonnet"
+description "Binding for Jsonnet the data templating language"
+authors "XXIV"
+copyright "Copyright © 2023, XXIV"
+license "Apache-2.0"

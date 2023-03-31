@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+/jsonnet
+jsonnet.so
+jsonnet.dylib
+jsonnet.dll
+jsonnet.a
+jsonnet.lib
+jsonnet-test-*
+*.exe
+*.o
+*.obj
+*.lst
